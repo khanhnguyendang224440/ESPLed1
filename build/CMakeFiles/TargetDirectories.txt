@@ -1,2 +1,0 @@
-/home/iot/Documents/PlatformIO/Projects/Bai_1/build/CMakeFiles/edit_cache.dir
-/home/iot/Documents/PlatformIO/Projects/Bai_1/build/CMakeFiles/rebuild_cache.dir
